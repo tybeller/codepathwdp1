@@ -20,18 +20,3 @@ const Card = (props) => {
     }
 
 export default Card;
-
-// Path: src/App.jsx
-// import './App.css';
-// import Card from './card';
-//
-// const App = () => {
-//
-//   return (
-//     <div className="App">
-//       <Card
-//         imgSrc="https://images.unsplash.com/photo-1593642532452-9fbcf0c4f3b5?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
-//         title="The Shawshank Redemption"
-//         genre="Drama"
-//         buttonText="Add to Favorites"
-//         buttonHref="https://www.imdb.com/title/tt0111161/"
