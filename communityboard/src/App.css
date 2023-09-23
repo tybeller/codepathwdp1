@@ -49,6 +49,12 @@
   width: 30em;
   overflow:hidden;
 }
+
+.card:hover{
+  width: 30.5em;
+  box-shadow: 0 0 1em #0000006b;
+  transition: 0.5s;
+}
 .card-img{
   border-radius: 0.5em, 0.5em, 0em, 0em !important;
   box-shadow: #00000022;

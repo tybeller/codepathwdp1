@@ -35,7 +35,7 @@ h1 {
   font-size: 3.2em;
   line-height: 1.1;
   color: white;
-  text-shadow: 0 0 0.5em #00000022;
+  text-shadow: 0.1em 0.1em 0.2em #0000007e;
 }
 
 button {
